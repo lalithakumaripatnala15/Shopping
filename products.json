@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "price": 79999,
+    "image": "/images/iphone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 69999,
+    "image": "/images/samsung.jpg"
+  },
+  {
+    "id": 3,
+    "name": "HP Victus",
+    "price": 65000,
+    "image": "/images/victus.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Boat Headphones",
+    "price": 1999,
+    "image": "/images/boat.jpg"
+  }
+]
